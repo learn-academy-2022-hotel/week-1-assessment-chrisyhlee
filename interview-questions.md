@@ -16,7 +16,7 @@ Researched answer:
 
 Your answer: Git is what is on your computer right in front of you. The difference between git and GitHub is that git can only be changed or updated by someone with physical access to the git, while GitHub is a platform that allows any person from anywhere to have access and push/pull to and from as needed.
 
-Researched answer: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories
+Researched answer: Git is the version control software. It keeps track of current and previous versions of software. It is a tool used by developers for managing code. The difference between git and GitHub is that git is only available to the developer(s) that are physically using the local, while GitHub is a remote space that can be accessed and changed from anywhere.
 
 2. Which JavaScript operators will return a Boolean value?
 
@@ -26,21 +26,21 @@ Researched answer: Equality, Relational, and Logical operators will return Boole
 
 3. What is an index? What is the difference between index and value?
 
-Your answer: An index is the current assigned position of a character within a string or array. The difference between index and value is that index indication position while value indicates what the character is representing.
+Your answer: An index is the current assigned position of a character within a string or array. The difference between index and value is that index indicates position while value indicates what the character is representing.
 
-Researched answer: The index property is a read-only property. It contains the position of a regular expression match within a string. Values are chunks that represent pieces of information.
+Researched answer: An index is the position at which an element is assigned to. The difference between index and value is that index is read-only, which means that the index cannot be directly changed, while value is displaying what the element represents and can be directly changed by the developer.
 
 4. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
 Your answer: An array is a list of data types separated individually within a container. A string is a data type. An array can contain a string. When counting the length of an array, it counts each data type separated by a comma as 1, while in a string, each character within the string counts as a length. Similarly, in an array, each data type holds its own index, while each character in a string holds its own index.
 
-Researched answer: Strings are similar to arrays with just a few differences. Usually, the array size is fixed, while strings can have a variable number of elements. Arrays can contain any data type (char short int even other arrays) while strings are usually ASCII characters terminated with a NULL (0) character.
+Researched answer: An array is a container for a list of data types. Strings are one type of data type. Arrays are similar to strings in that they both have lengths, contain data, and the data inside are assigned an index. Differences include while characters within a string each have their own index, arrays assign index based on each data type. Also, strings are a type of data type, while arrays contain data types, but are not a data type themselves.
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
 Your answer: Pair programming is 2 people working together on the same project to reach the same goal. There is a driver and a navigator. The driver is the person with hands-on the computer physically creating the code. The navigator is responsible for giving the driver the direction and instruction they need to get to their shared end-goal destination.
 
-Researched answer: Pair programming is an agile software development technique in which two programmers work together at one workstation. While one acts as a driver (writing code), the other will play a navigator's role (ensuring the accuracy of the code).
+Researched answer: Pair programming is a programming technique in which two programmers work together at one computer, or local. One is considered the driver, whose job is to actually write the code, while the other is considered the navigator, whose job is to guide the driver in the right direction with the code and ensure the code is accurate, efficient, and free of obvious mistakes.
 
 ## Looking Ahead: Terms for Next Week
 
